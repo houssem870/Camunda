@@ -1,0 +1,27 @@
+{
+  "components": [
+    {
+      "label": "Wich niveau you choose !",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1apc8gh",
+        "columns": null
+      },
+      "id": "Field_13xd4mm",
+      "key": "Niveau",
+      "disabled": false,
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_08ggdpg",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}
